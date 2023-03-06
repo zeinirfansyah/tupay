@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TupayProject:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TupayProject_jar</output-path>
+    <root id="archive" name="TupayProject.jar">
+      <element id="module-output" name="TupayProject" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/mysql/mysql-connector-java/8.0.25/mysql-connector-java-8.0.25.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/protobuf/protobuf-java/3.11.4/protobuf-java-3.11.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
